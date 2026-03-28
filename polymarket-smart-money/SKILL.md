@@ -1,6 +1,6 @@
 ---
 name: polymarket-smart-money
-description: "Build a smart money tracking and insider trading detection system for Polymarket prediction markets. Use this skill whenever the user wants to track whale wallets on Polymarket, detect insider trading on prediction markets, monitor high win-rate addresses, build a wallet scoring system for on-chain betting data, or analyze Polymarket leaderboard addresses. Also trigger when the user asks about on-chain analytics for prediction markets, wallet profiling, smart money signals, copy trading on Polymarket, or suspicious pre-settlement trading patterns. This skill covers wallet discovery, scoring, real-time monitoring, insider detection, and cross-bot signal export."
+description: "Track profitable wallets and detect insider trading on Polymarket prediction markets. Multi-dimensional wallet scoring, whale alerts, pre-settlement pattern detection, and cross-bot signal export. Use when the user mentions smart money tracking, wallet profiling, copy trading, insider detection, or on-chain analytics for prediction markets."
 ---
 
 # Polymarket Smart Money Tracker

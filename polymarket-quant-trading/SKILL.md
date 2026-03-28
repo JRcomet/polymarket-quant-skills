@@ -1,6 +1,6 @@
 ---
 name: polymarket-quant-trading
-description: "Build production-ready Polymarket prediction market trading bots with quantitative strategies. Use this skill whenever the user mentions Polymarket, prediction markets, CLOB trading, event contracts, binary options on real-world events, or wants to build automated trading bots for prediction markets. Also trigger when the user asks about Kelly criterion for betting, Bayesian probability updating for trading, Binance-to-Polymarket arbitrage, crypto price prediction markets, weather prediction markets, or any quantitative approach to prediction market trading. This skill covers the full pipeline: API integration, signal generation, position sizing, risk management, and VPS deployment."
+description: "Build automated Polymarket trading bots with Kelly criterion, Bayesian probability, liquidity filtering, and real-time data feeds. Covers CLOB API integration, signal generation, position sizing, risk management, DRY RUN validation, and VPS deployment. Use when the user mentions Polymarket, prediction markets, event contracts, or quantitative trading strategies."
 ---
 
 # Polymarket Quantitative Trading Bot Builder
